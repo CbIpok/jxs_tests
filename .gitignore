@@ -1,0 +1,7 @@
+#pycharm
+.idea
+__pycache__
+
+#dataset
+image_dataset/*
+tmp/*
